@@ -15,8 +15,8 @@ For details, you might check my technical report at ZhiHu: [[PostgreSQL源码]Ne
 
 
 ## Usage
-The code is based on PostgreSQL v13.0, you can replace the folder **src/backend/exectuor** directly, and then its supposed to work.
-There are some comment that marked as "Fang ...", which denotes the details that I modified the code.
+ * The code is based on PostgreSQL v13.0, you can replace the folder **src/backend/exectuor** directly, and then its supposed to work. 
+ * There are some comment that marked as "Fang ...", which denotes the details that I modified the code.
 
 
 ## Author
